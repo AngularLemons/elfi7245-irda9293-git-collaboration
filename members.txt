@@ -1,3 +1,7 @@
 Användarnamn på GitHub: IrisDahlberg
 Namn: Iris Dahlberg
 Epost: Iris.dahlberg.9293@student.uu.se
+
+Användare på GitHub: AngularLemons
+Namn: Elliott Fischer
+Epost: elliott.fischer.7245@student.uu.se
